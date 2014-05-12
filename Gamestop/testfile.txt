@@ -1,4 +1,3 @@
 test file revision 1
 test file revision 2 - committed
 test file revision 3 - committed
-test file revision 4 - committed
