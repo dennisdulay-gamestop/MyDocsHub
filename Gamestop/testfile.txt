@@ -1,1 +1,2 @@
 test file revision 1
+test file revision 2 - committed
